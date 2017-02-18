@@ -1,5 +1,6 @@
 # platosidea
 A generative computer music album
+There's a brief behind the scenes story here, https://kasjmierleela.com/home/2017/2/16/i-made-an-album
 
 This is my first all out Computer Music Experiment as part of the project The Process Party and I'm calling it Plato's Idea.
 Made entirely using all FOSS, SuperCollider, TidalCycles and Audacity, and I feel much grateful to the people who are working on all of these technologies.
